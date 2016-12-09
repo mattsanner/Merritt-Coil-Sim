@@ -1,0 +1,9 @@
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\bin\Debug\Merritt Coil App.exe.config
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.csprojResolveAssemblyReference.cache
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt_Coil_App.Form1.resources
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt_Coil_App.Properties.Resources.resources
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.csproj.GenerateResource.Cache
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\bin\Debug\Merritt Coil App.exe
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\bin\Debug\Merritt Coil App.pdb
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.exe
+c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.pdb
