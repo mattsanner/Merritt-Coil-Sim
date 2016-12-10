@@ -7,3 +7,12 @@ c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Co
 c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\bin\Debug\Merritt Coil App.pdb
 c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.exe
 c:\users\m_w_s\documents\visual studio 2015\Projects\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.pdb
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\bin\Debug\Merritt Coil App.exe.config
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.exe
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.pdb
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\bin\Debug\Merritt Coil App.exe
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\bin\Debug\Merritt Coil App.pdb
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.csprojResolveAssemblyReference.cache
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt_Coil_App.Form1.resources
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt_Coil_App.Properties.Resources.resources
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Debug\Merritt Coil App.csproj.GenerateResource.Cache
