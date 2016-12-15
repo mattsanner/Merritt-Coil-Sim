@@ -37,6 +37,8 @@
             this.Calculate = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.bFieldText = new System.Windows.Forms.TextBox();
+            this.Htext = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -44,9 +46,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(22, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(22, 17);
+            this.label1.Size = new System.Drawing.Size(17, 17);
             this.label1.TabIndex = 1;
-            this.label1.Text = "âx";
+            this.label1.Text = "X";
             // 
             // axText
             // 
@@ -74,18 +76,18 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(71, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(23, 17);
+            this.label2.Size = new System.Drawing.Size(17, 17);
             this.label2.TabIndex = 4;
-            this.label2.Text = "ây";
+            this.label2.Text = "Y";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(117, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(23, 17);
+            this.label3.Size = new System.Drawing.Size(17, 17);
             this.label3.TabIndex = 5;
-            this.label3.Text = "âz";
+            this.label3.Text = "Z";
             // 
             // Calculate
             // 
@@ -113,11 +115,29 @@
             this.bFieldText.Size = new System.Drawing.Size(245, 22);
             this.bFieldText.TabIndex = 8;
             // 
+            // Htext
+            // 
+            this.Htext.Location = new System.Drawing.Point(12, 134);
+            this.Htext.Name = "Htext";
+            this.Htext.Size = new System.Drawing.Size(245, 22);
+            this.Htext.TabIndex = 9;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(12, 114);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(211, 17);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "Magnetic Field Intensity at Point:";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(278, 122);
+            this.ClientSize = new System.Drawing.Size(266, 171);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.Htext);
             this.Controls.Add(this.bFieldText);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.Calculate);
@@ -145,6 +165,8 @@
         private System.Windows.Forms.Button Calculate;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox bFieldText;
+        private System.Windows.Forms.TextBox Htext;
+        private System.Windows.Forms.Label label5;
     }
 }
 

@@ -1,0 +1,8 @@
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\bin\Release\Merritt Coil App.exe.config
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\bin\Release\Merritt Coil App.exe
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\bin\Release\Merritt Coil App.pdb
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Release\Merritt_Coil_App.Form1.resources
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Release\Merritt_Coil_App.Properties.Resources.resources
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Release\Merritt Coil App.csproj.GenerateResource.Cache
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Release\Merritt Coil App.exe
+C:\Users\m_w_s\Documents\College\EM_Theory\Merritt-Coil-Sim\Merritt Coil App\Merritt Coil App\obj\Release\Merritt Coil App.pdb
